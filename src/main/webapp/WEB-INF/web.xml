@@ -1,0 +1,25 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Aliyun DDNS</display-name>
+
+  <servlet>
+    <servlet-name>update</servlet-name>
+    <servlet-class>com.caliburn.servlet.UpdateDomainName</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>update</servlet-name>
+    <url-pattern>/update</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>check</servlet-name>
+    <servlet-class>com.caliburn.servlet.CheckDomainName</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>check</servlet-name>
+    <url-pattern>/check</url-pattern>
+  </servlet-mapping>
+</web-app>
