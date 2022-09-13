@@ -1,4 +1,3 @@
 target
 *.jar
 src/main/resources/AliyunAPIKey.properties
-src/main/resources/AliyunAPIKey.properties
