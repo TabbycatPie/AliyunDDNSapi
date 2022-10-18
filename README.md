@@ -1,4 +1,7 @@
+
+
 # AliyunDDNSapi
+
 >  An servlet project for aliyun ddns api for OPNsense or Pfsense (Which not support Aliyun's DDNS) 
 
 ### Consist of 3 servlets
@@ -65,5 +68,22 @@ passcode = <your api passcode here>
 > 2. Copy release ***.war*** file to /tomcat/webapp/ folder
 > 3. Startup tomcat
 > 4. Test service with Postman or something
+> 5. Config on your Pfsense or OPNsense
+
+#### Test Service with Postman
 
 ![image-20221019010914234](./image-20221019010914234.png)
+
+#### Config Pfsense
+
+![image-20221019011648177](./image-20221019011648177.png)
+
+![image-20221019011838337](./image-20221019011838337.png)
+
+#### Config check ip service
+
+> In china you cant access system defualt service to get public IP address, you have to config a custom ip checking service as follow
+
+![image-20221019012041593](./image-20221019012041593.png)
+
+![image-20221019012131860](./image-20221019012131860.png)
