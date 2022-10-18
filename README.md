@@ -66,4 +66,4 @@ passcode = <your api passcode here>
 > 3. Startup tomcat
 > 4. Test service with Postman or something
 
-![image-20221019010914234](/Users/oscar/Documents/GitHub/AliyunDDNSapi/image-20221019010914234.png)
+![image-20221019010914234](./image-20221019010914234.png)
