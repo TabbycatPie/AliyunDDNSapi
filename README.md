@@ -1,6 +1,6 @@
 
 
-# AliyunDDNSapi For Pfsense or OPNsense
+# Aliyun DDNS API For Pfsense or OPNsense
 
 >  An servlet project for aliyun ddns api for OPNsense or Pfsense (Which not support Aliyun's DDNS) 
 
