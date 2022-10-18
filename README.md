@@ -55,3 +55,15 @@ accessid = <your api key here>
 passcode = <your api passcode here>
 ```
 
+
+
+### HOW TO USE
+
+> Pretty simple
+>
+> 1. Deploy tomcat. , start tomcat,open firewall if needed
+> 2. Copy release ***.war*** file to /tomcat/webapp/ folder
+> 3. Startup tomcat
+> 4. Test service with Postman or something
+
+![image-20221019010914234](/Users/oscar/Documents/GitHub/AliyunDDNSapi/image-20221019010914234.png)
