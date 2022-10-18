@@ -76,6 +76,10 @@ passcode = <your api passcode here>
 
 #### Config Pfsense
 
+> Using %IP% to fill the update URL where your public IP is like follow
+>
+> Update URL(Eg.):http://<your server ip>:8080/AliyunDdnsApi/update?domain_name=<domain name you want to update>&new_ip=%IP%
+
 ![image-20221019011648177](./image-20221019011648177.png)
 
 ![image-20221019011838337](./image-20221019011838337.png)
