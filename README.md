@@ -78,7 +78,7 @@ passcode = <your api passcode here>
 
 > Using %IP% to fill the update URL where your public IP is like follow
 >
-> Update URL(Eg.):http://< your server ip >:8080/AliyunDdnsApi/update?domain_name=< domain name you want to update >&new_ip=%IP%
+> Update URL(Eg.):http://***< your server ip >***:8080/AliyunDdnsApi/update?domain_name=***< domain name you want to update >***&new_ip=%IP%
 
 ![image-20221019011648177](./image-20221019011648177.png)
 
