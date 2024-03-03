@@ -4,6 +4,8 @@
 
 >  An servlet project for aliyun ddns api for OPNsense or Pfsense (Which not support Aliyun's DDNS) 
 
+ATENTION：this project only support for java18 or higher version, suitable for tomcat 9.0, you better use docker to deploy your service.
+
 ### Consist of 3 servlets
 
 1. Update servlet : Update dns A record, needs domain name and ip address 2 paras
